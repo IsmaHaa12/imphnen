@@ -16,7 +16,7 @@
     </nav>
 
     <div class="container mt-5">
-        <h1 class="text-center mb-4">Daftar Anime</h1>
+        <h1 class="text-center mb-4">Anime</h1>
 
         <!-- Form Pencarian -->
         <form method="GET" action="{{ url('/') }}" class="input-group mb-4">
